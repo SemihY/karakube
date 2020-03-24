@@ -30,6 +30,9 @@ node_modules
 # OSX
 .DS_Store
 
+#Vs code
+.vscode 
+
 # App packaged
 release
 app/main.prod.js
